@@ -6,7 +6,7 @@
 
 ![BADGE](https://img.shields.io/badge/-SHRAVYA%20SARUGU-FF69B4) 
 
-# Web-Page : [Live-Link](https://rodeclone-tailwindcss.netlify.app/)
+# Web-Page : [Live-Link](https://rodecloneusingtailwindcss.netlify.app/)
 
 - This is Rode website clone is made by using Tailwind-CSS.
 
